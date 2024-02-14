@@ -1,9 +1,8 @@
-import './App.css';
-import CitySearch from './CitySearch';
+import WeatherApp from './WeatherApp';
 
 function App() {
   return (
-    <CitySearch />
+    <WeatherApp />
   );
 }
 
